@@ -6,6 +6,10 @@ The template provides you with the basic structure of a Python project: logging 
 
 👉 Other templates are available as well via our tooling and on our [Portal](https://robocorp.com/portal/tag/template)
 
+## Solution design (abstract architectural model)
+![output](https://github.com/user-attachments/assets/f26d924f-f627-4632-b7dc-7bee7093982f)
+
+
 ## Running
 
 #### VS Code
